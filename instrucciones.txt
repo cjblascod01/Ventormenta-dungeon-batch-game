@@ -1,0 +1,23 @@
+ALTAMENTE RECOMENDADO MANTENER LAS MAYUSCULAS ACTIVAS
+
+Bienvenido a Mazmorra de Ventormenta
+
+Esta nueva aventura consiste en alcanzar la salida de la mazmorra,
+para ello debes superar desde trampas hasta enemigos, algunos mas
+poderosos que otros.
+
+Pierdes en el momento que tu salud llegue a 0, pero tranquil@,
+puedes regenerarla si tienes suerte de encontrarte cofres.
+
+Los combates seran realizados en base a las estadisticas de cada
+personaje. Las estadisticas seran: Fuerza y defensa.
+
+Clases de heroe:
+Gran espada (Gran daño, menor defensa)
+Espada y Escudo (Daño moderado, mayor defensa)
+
+PD: Si consigues acabar con el primer jefe, date por satisfech@. En esta 
+fase de desarrollo del juego aun no hay sistema save implementado por lo 
+que el boss final es mucho mas dificil.
+
+Te deseo la mayor suerte del mundo, la necesitaras :)
